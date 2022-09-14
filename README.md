@@ -4,4 +4,4 @@
 [![codewars](https://www.codewars.com/users/Straga33/badges/small)](https://www.codewars.com/users/Straga33)
 
 ## Контакты:
-<img src="https://github.com/Straga33/Straga33/blob/main/icon/telegram.png" width="20" height="20"/> [My Telegram](https://t.me/straga333)
+<img src="https://github.com/Straga33/straga33/blob/main/icons/Telegram.svg" width="20" height="20"/> [My Telegram](https://t.me/straga333)
