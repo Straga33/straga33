@@ -3,6 +3,15 @@
 
 [![codewars](https://www.codewars.com/users/Straga33/badges/small)](https://www.codewars.com/users/Straga33)
 
+
+- 🌱 Сейчас я отдачиваю свои навыки в **Python и SQL**
+
+- 📫 Моя электронная почта **baem-festa@yandex.ru**
+
+- 📚 Я заканчиваю обучение на Яндекс.Практикум по курсу **Python-разработчик**
+
+- 👻 Мое кредо: *Труд побеждает талант!*
+
 ## Контакты:
 <p align="left">
 <a href="https://t.me/straga333" target="blank"><img align="center" src="https://github.com/Straga33/straga33/blob/main/icons/Telegram.svg" alt="baskovmichail" height="40" width="40" /></a>
