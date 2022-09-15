@@ -4,7 +4,7 @@
 [![codewars](https://www.codewars.com/users/Straga33/badges/small)](https://www.codewars.com/users/Straga33)
 
 
-- 🌱 Сейчас я отдачиваю свои навыки в **Python и SQL**
+- 🌱 Сейчас я оттачиваю свои навыки в **Python и SQL**
 
 - 📫 Моя электронная почта **baem-festa@yandex.ru**
 
