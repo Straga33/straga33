@@ -1,5 +1,5 @@
 <h1 align="center">Всем привет! Меня зовут Михаил 👋</h1>
-<h3 align="center">Я начинающий Python-разработчик и студент Яндекс.Практикум</h3>
+<h3 align="center">Я Python-разработчик и студент Яндекс.Практикум</h3>
 
 [![codewars](https://www.codewars.com/users/Straga33/badges/small)](https://www.codewars.com/users/Straga33)
 
